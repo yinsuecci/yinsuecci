@@ -15,7 +15,7 @@
 [博客](https://udclass.top) · [Codeforces @yinsueccii](https://codeforces.com/profile/yinsueccii) · [邮件联系](mailto:yinsuecci@gmail.com)
 
 **开发岗实习 / 数学家教欢迎邮箱联系 [yinsuecci@gmail.com](mailto:yinsuecci@gmail.com)**<br>
-目前仅支持 remote/ 网课 或杭州市区（一小时以内通勤）
+目前仅支持 remote / 网课 或杭州市区（一小时以内通勤）
 
 ## 我的技术栈
 
