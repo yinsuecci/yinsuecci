@@ -1,16 +1,11 @@
 # 你好，我是小樱 / Yinsuecci
 
-**ZJU 数学系 · 08 男大**
-
-写在最前面：
+**ZJU 数学系 **
+**08 男大**
 
 关于我的网名 *櫻序曦葉*<br>
 樱序是三月的别称，是我出生的月份，<br>
 ~~说人话就是三月清晨的叶子~~
-
-用一句我很喜欢的话：
-
-> **我们都是阴沟里的虫子，但总得仰望星空。**
 
 [博客](https://udclass.top) · [Codeforces @yinsueccii](https://codeforces.com/profile/yinsueccii) · [邮件联系](mailto:yinsuecci@gmail.com)
 
